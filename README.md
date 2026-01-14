@@ -13,6 +13,6 @@ Features
 
 ✅ Reduces repetitive manual work by up to 80%
 
-Demo
-
-Check out a quick demo of the app in action:
+## Demo
+Check out the demo video here: [Watch Video]
+https://www.linkedin.com/posts/sarfaraz-ahmed-351aa6101_education-teachingtools-schooladmin-activity-7417140774498152448-zCN2?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABn33G0BLQlMkGYDc4t1TXtZtKohceP9lXY
