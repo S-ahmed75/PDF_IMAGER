@@ -80,9 +80,10 @@ Ideal for sensitive and official documents.
 
 - Early adopters  
 - Feedback from education and office users  
-- Partnerships with productivity or document automation tools  
+- Partnerships with productivity or document automation tools
+  
 
----
+🔓 Available for licensing or acquisition — contact via LinkedIn.
 
 ## 📬 Contact
 
